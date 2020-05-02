@@ -1,4 +1,4 @@
-# Loading all requiered packages
+## Loading all requiered packages
 library('tidyverse')
 library('data.table')
 library('RCurl')
