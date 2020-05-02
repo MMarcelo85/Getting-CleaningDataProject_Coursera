@@ -46,7 +46,10 @@ The 5 sections of run_analsis.R script performs 5 tasks as requested in the cour
 
 
 #### Data sets descripction:
-x_train, x_test, y_train, y_test: Data variables 
-subject_train, subject_test: Subjects IDs 
-features: Data variables descriptive names
-activity_labels: Activities labels
+- x_train, x_test, y_train, y_test: Data variables 
+
+- subject_train, subject_test: Subjects IDs 
+
+- features: Data variables descriptive names
+
+- activity_labels: Activities labels
